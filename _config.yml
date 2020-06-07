@@ -1,7 +1,7 @@
 # Setup
 title: test
 tagline: a dark mode friendly Jekyll theme
-url: https://noir.essentialenemy.com
+url: https://sally.github.io/jekyll-test
 paginate: 1
 baseurl: ""
 permalink: :title/
